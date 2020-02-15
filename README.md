@@ -1,5 +1,5 @@
 # Visualization of:
-### 1. [Delhi Vidhan Sabha Elections(2020)](https://saurabhp75.github.io/delhi_election_2020/delhi.html)
+### 1. [Delhi Vidhan Sabha Elections(2020)](http://saurabhp75.github.io/delhi_election_2020/delhi.html)
 
 # Data scraped from: 
 [Myneta](http://www.myneta.info/)
